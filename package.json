@@ -1,0 +1,16 @@
+{
+  "name": "com.gamesoft.zenject",
+  "displayName": "Game Soft Zenject",
+  "version": "9.2.2",
+  "description": "Dependency Injection Framework for Unity3D",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VTeselkin/zenject.git"
+  },
+  "keywords": [
+    "Unity",
+    "UPM"
+  ],
+  "author": "VTeselkin",
+  "license": "UNLICENSED"
+}
